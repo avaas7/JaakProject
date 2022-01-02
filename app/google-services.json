@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "5345819329",
+    "project_id": "jaakproject",
+    "storage_bucket": "jaakproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5345819329:android:2dc31306354d4ae57cf240",
+        "android_client_info": {
+          "package_name": "com.example.projectjaak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5345819329-qnp8v8u8niuou8f0s5p27pbc0dtd2rb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9259mvCl-TeI1YIllpqvshVYY6LAbPqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5345819329-qnp8v8u8niuou8f0s5p27pbc0dtd2rb7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
